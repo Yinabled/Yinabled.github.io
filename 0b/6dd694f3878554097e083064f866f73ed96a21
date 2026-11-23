@@ -1,0 +1,19 @@
+index.html
+  s_234fdf09700a0b::t_87035a85115a6b 31,47-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0b6dd694f3878554097e083064f866f73ed96a21",
+  "prompts": {},
+  "sessions": {
+    "s_234fdf09700a0b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "76580d1c-54d6-4227-832a-2ed262b5b3d4",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Will Yin <will@mandolin.com>"
+    }
+  }
+}
